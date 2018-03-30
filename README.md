@@ -1,5 +1,6 @@
 # spotify
-Spotify Checker
+
+Spotify Account Checker Api
 
 Api : http://www.sbsseh.com/cek/Spotify/api/
 
