@@ -1,2 +1,0 @@
-# spotify
-Spotify Checker
