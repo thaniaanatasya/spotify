@@ -5,9 +5,9 @@ Spotify Account Checker Api
 Api : http://nabilah.xyz/api
 
 ?email= (required). Email
-&password= (required). Password
+&pass= (required). Password
 
-Example : http://nabilah.xyz/api?email=nblh.ayu@gmail.com&password=ikhsan
+Example : http://nabilah.xyz/api?email=nblh.ayu@gmail.com&pass=ikhsan
 
 Live Account 
 
