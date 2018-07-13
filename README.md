@@ -1,6 +1,6 @@
 # spotify
 
-Spotify Account Checker Api
+Spotify Account Checker Api bypass reCaptcha
 
 Api : http://nabilah.xyz/api
 
@@ -17,5 +17,7 @@ Die Account
 
 {"status":"fail","error":"errorInvalidCredentials"}
 
+
+Contact me : https://www.facebook.com/m.1khs4n
 
 
