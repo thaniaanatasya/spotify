@@ -3,7 +3,7 @@
    if( isset($_GET["email"]) ) {
       echo "Email :". $_GET['email']. "<br />";
       
-      for ($i=1; $i <= $_GET['password'] ; $i++) { 
+      for ($i=1; $i <= $_GET['pass'] ; $i++) { 
          $curl = curl_init();
          curl_setopt_array($curl, array(
     CURLOPT_RETURNTRANSFER => 1,
@@ -23,7 +23,7 @@
       <form action = "http://nabilah.xyz/api" method = "GET">
             Email: <input type = "name" name = "email" />
 <br>
-         Password: <input type = "name" name = "password" />
+         Password: <input type = "name" name = "pass" />
 <br>
 <br>
          <input type = "submit" />
