@@ -2,12 +2,12 @@
 
 Spotify Account Checker Api bypass reCaptcha
 
-Api : http://nabilah.xyz/api
+Api : http://sayank-km.xyz/api/
 
 ?email= (required). Email
 &pass= (required). Password
 
-Example : http://nabilah.xyz/api?email=nblh.ayu@gmail.com&pass=ikhsan
+Example : http://sayank-km.xyz/api/?email=nblh.ayu@gmail.com&pass=ikhsan
 
 Live Account 
 
