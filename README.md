@@ -3,6 +3,7 @@
 Spotify Account Checker Api bypass reCaptcha
 
 Api : http://sayank-km.xyz/api/
+Account Checker : http://sayank-km.xyz/spotify/
 
 ?email= (required). Email
 &pass= (required). Password
