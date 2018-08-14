@@ -3,6 +3,7 @@
 Spotify Account Checker Api bypass reCaptcha
 
 Api : http://sayank-km.xyz/api/
+
 Account Checker : http://sayank-km.xyz/spotify/
 
 ?email= (required). Email
@@ -19,6 +20,7 @@ Die Account
 {"status":"fail","error":"errorInvalidCredentials"}
 
 
-Fb me : https://www.facebook.com/m.1khs4n
+Fb me : fb.com/m.1khs4n
+instagram : @ikhsan_art
 
 
